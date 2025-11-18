@@ -113,7 +113,7 @@ Git, GitHub
 ---
 
 ## 🏗 Projects  
-*(You said you want blank space — you can fill these later.)*
+*(I Will  fill these later.)*
 
 🚧 Project 1 — Coming Soon
 🚧 Project 2 — Coming Soon
