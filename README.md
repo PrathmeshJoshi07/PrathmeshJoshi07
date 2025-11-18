@@ -158,7 +158,7 @@ I love creating clean, high-performance applications with a futuristic approach.
 ## 🧩 Extra Sections (Collapsible)
 
 <details>
-<summary><h3>📘 My Learning Roadmap</h3></summary>
+<summary><h3>📘 My Learning Roadmap for Future</h3></summary>
 
 - Spring Boot Advanced  
 - Microservices  
@@ -168,15 +168,6 @@ I love creating clean, high-performance applications with a futuristic approach.
 
 </details>
 
-<details>
-<summary><h3>📁 Other Projects</h3></summary>
-
-- Mini Java Apps  
-- CLI Tools  
-- Learning Projects  
-- Experiments  
-
-</details>
 
 ---
 
