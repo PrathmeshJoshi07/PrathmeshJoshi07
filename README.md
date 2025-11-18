@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Prathmesh+Joshi+👋;Backend+Dev+%7C+Fullstack+Dev+%7C+Java+Dev" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Prathmesh+Joshi+👋" />
+Passionate to Build Modern Futuristic Solutions 🚀 Backend Dev | Fullstack Dev | Java Dev
 
 </div>
 
