@@ -121,11 +121,6 @@ To develop impactful projects, master backend architecture, and continuously upg
 
 ## 🖼️ Project Showcase
 
-
-### ✔ 2. Paste this clean version EXACTLY (NO extra spaces before/after)
-
-### ⭐ **Paste this EXACT code — it will render correctly:**
-
 <div align="center">
 <table>
   <tr>
