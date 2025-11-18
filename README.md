@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="./assets/banner.svg" alt="Prathmesh M Joshi - Banner" width="100%" />
-</p>
+
 <p align="center">
   <img src="./assets/solar-system-banner.svg" alt="Solar System Tech Background" width="100%" />
 </p>
