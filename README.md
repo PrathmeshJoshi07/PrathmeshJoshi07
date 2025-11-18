@@ -121,33 +121,31 @@ To develop impactful projects, master backend architecture, and continuously upg
 
 ## 🖼️ Project Showcase
 
-<div align="center">
 
+### ✔ 2. Paste this clean version EXACTLY (NO extra spaces before/after)
+
+### ⭐ **Paste this EXACT code — it will render correctly:**
+
+<div align="center">
 <table>
   <tr>
-
-    <!-- Project 1 -->
     <td align="center" style="padding:8px">
       <a href="https://github.com/PrathmeshJoshi07/Hotel_Management_System---Spring" target="_blank">
-        <img src="./assets/projects/Hotel.png" alt="Hotel Management System" width="220" style="border-radius:8px; box-shadow: 0 6px 18px rgba(0,0,0,0.6);" />
+        <img src="./assets/projects/Hotel.png" alt="Hotel Management System" width="220" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.6);" />
       </a>
       <br/>
       <sub><b>Hotel Management System</b><br>A Spring MVC + JSP app — add/list/delete rooms.</sub>
     </td>
-
-    <!-- Project 2 -->
     <td align="center" style="padding:8px">
       <a href="https://github.com/PrathmeshJoshi07/Tender-Recommendation-System-Java-" target="_blank">
-        <img src="./assets/projects/tender.png" alt="Tender Recommendation System" width="220" style="border-radius:8px; box-shadow: 0 6px 18px rgba(0,0,0,0.6);" />
+        <img src="./assets/projects/tender.png" alt="Tender Recommendation System" width="220" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.6);" />
       </a>
       <br/>
       <sub><b>Tender Recommendation System</b><br>Recommends relevant tenders (Java).</sub>
     </td>
-
-    <!-- Project 3 -->
     <td align="center" style="padding:8px">
       <a href="https://github.com/PrathmeshJoshi07/Hotel-Management-System" target="_blank">
-        <img src="./assets/projects/hospital.png" alt="Hospital Management System" width="220" style="border-radius:8px; box-shadow: 0 6px 18px rgba(0,0,0,0.6);" />
+        <img src="./assets/projects/hospital.png" alt="Hospital Management System" width="220" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.6);" />
       </a>
       <br/>
       <sub><b>Hospital Management System</b><br>JAVA JDBC project for hospital arrangements.</sub>
@@ -155,7 +153,6 @@ To develop impactful projects, master backend architecture, and continuously upg
 
   </tr>
 </table>
-
 </div>
 
 
