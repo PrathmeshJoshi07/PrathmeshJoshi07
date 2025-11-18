@@ -8,8 +8,16 @@
 
 ---
 
+## 💠 Profile Views  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=PrathmeshJoshi07&color=00E5FF&style=for-the-badge" />
+</div>
+
+
+---
+
 ## 🧑‍💻 About Me  
-I’m **Prathmesh M Joshi**, a passionate **Backend / Fullstack Developer** with a strong foundation in **Java** and modern backend technologies.  
+I’m **Prathmesh Joshi**, a passionate ** Backend / Fullstack Developer** with a strong foundation in **Java** and modern backend technologies.  
 I love creating clean, scalable, and futuristic applications — always learning and always improving.
 
 ### 🌱 Currently Learning
@@ -89,14 +97,6 @@ Git, GitHub
 ✔ Futuristic tech mindset  
 ✔ Friendly & collaborative  
 ✔ Premium & modern coding approach  
-
----
-
-## 💠 Profile Views  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=PrathmeshJoshi07&color=00E5FF&style=for-the-badge" />
-</div>
-
 ---
 
 ## ☕ Final Thoughts  
