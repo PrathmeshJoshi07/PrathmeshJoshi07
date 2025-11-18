@@ -15,6 +15,8 @@ Backend Dev | Fullstack Dev | Java Dev.
 
 ## 💠 Profile Views  
 
+## 💠 Profile Views  
+
 <div align="center">
 
   <!-- LinkedIn -->
@@ -27,11 +29,15 @@ Backend Dev | Fullstack Dev | Java Dev.
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/ZBTVBt9LyP/">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=PrathmeshJoshi07&color=00E5FF&style=for-the-badge" />
 
 </div>
-
 
 
 ---
