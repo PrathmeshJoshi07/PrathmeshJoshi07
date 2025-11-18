@@ -25,6 +25,11 @@ Backend Dev | Fullstack Dev | Java Dev.
 I’m **Prathmesh Joshi**, a passionate ** Backend / Fullstack Developer** with a strong foundation in **Java** and modern backend technologies.  
 I love creating clean, scalable, and futuristic applications — always learning and always improving.
 
+---
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,bootstrap,git,github&theme=dark" />
+</div>
+---
 ### 🌱 Currently Learning
 - Spring Boot  
 - Building advanced backend projects  
@@ -62,12 +67,6 @@ HTML, CSS, Bootstrap
 
 ### 🛠 Tools  
 Git, GitHub  
-
----
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,bootstrap,git,github&theme=dark" />
-</div>
 
 ---
 
