@@ -14,9 +14,24 @@ Backend Dev | Fullstack Dev | Java Dev.
 ---
 
 ## 💠 Profile Views  
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=PrathmeshJoshi07&color=00E5FF&style=for-the-badge" />
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/prathmeshjoshi07/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:prathmeshmjoshi007@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=PrathmeshJoshi07&color=00E5FF&style=for-the-badge" />
+
 </div>
+
 
 
 ---
