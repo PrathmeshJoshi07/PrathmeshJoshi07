@@ -61,18 +61,36 @@ I love creating clean, high-performance applications with a futuristic approach.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="33%">
+  
 ### 🧩 Languages  
 <img src="https://skillicons.dev/icons?i=java,mysql,html,css&theme=dark" />
+
+</td>
+
+<td align="center" width="33%">
 
 ### ⚙️ Backend & Frameworks  
 <img src="https://skillicons.dev/icons?i=spring,maven&theme=dark" />
 
+</td>
+
+<td align="center" width="33%">
+
 ### 🧰 Tools  
 <img src="https://skillicons.dev/icons?i=bootstrap,git,github,idea&theme=dark" />
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
