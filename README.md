@@ -80,19 +80,26 @@ To develop impactful projects, master backend architecture, and continuously upg
 
 ---
 
-## 🚀 Tech Stack
 
-### 💻 Languages  
-**Java**, MySQL, HTML, CSS  
+## 🚀 My Tech Stack  
 
-### 🧩 Backend / Frameworks  
-**JDBC**, **Servlet**, **Spring**, **Spring Boot**
+<div align="center">
 
-### 🎨 Frontend / UI  
-HTML, CSS, Bootstrap  
+<!-- Languages / Core -->
+<img src="https://skillicons.dev/icons?i=java,mysql,html,css&theme=dark" />
 
-### 🛠 Tools  
-Git, GitHub  
+<br/>
+
+<!-- Backend / Frameworks -->
+<img src="https://skillicons.dev/icons?i=spring,maven&theme=dark" />
+
+<br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=bootstrap,git,github,idea&theme=dark" />
+
+</div>
+ 
 
 ---
 
