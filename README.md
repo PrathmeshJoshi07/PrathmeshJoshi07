@@ -13,7 +13,6 @@ Backend Dev | Fullstack Dev | Java Dev.
 
 ---
 
-## 💠 Profile Views  
 
 ## 💠 Profile Views  
 
