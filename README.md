@@ -2,104 +2,74 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Prathmesh+Joshi+👋" />
+<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Prathmesh+Joshi+👋;Backend+Developer+%7C+Fullstack+Developer+%7C+Java+Developer;Building+Modern+%26+Futuristic+Solutions+🚀" />
 
 </div>
-<div align="center">
-Passionate to Build Modern Futuristic Solutions 🚀.
 
-Backend Dev | Fullstack Dev | Java Dev.
+<div align="center">
+<h3>Passionate To Build Modern Futuristic Digital Experiences ⚡</h3>
+Backend Developer • Fullstack Developer • Java Specialist 
 </div>
 
 ---
 
-
-## 💠 Profile Views  
-
+## 🔗 Social & Profile Stats  
 <div align="center">
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/prathmeshjoshi07/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/prathmeshjoshi07/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <!-- Gmail -->
-  <a href="mailto:prathmeshmjoshi007@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:prathmeshmjoshi007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/ZBTVBt9LyP/">
-    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+<a href="https://leetcode.com/u/ZBTVBt9LyP/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=PrathmeshJoshi07&color=00E5FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=PrathmeshJoshi07&color=00E5FF&style=for-the-badge" />
 
 </div>
-
 
 ---
 
 ## 🧑‍💻 About Me  
-I’m **Prathmesh Joshi**, a passionate ** Backend / Fullstack Developer** with a strong foundation in **Java** and modern backend technologies.  
-I love creating clean, scalable, and futuristic applications — always learning and always improving.
+
+I’m **Prathmesh Joshi**, a passionate **Backend & Fullstack Developer** with strong expertise in **Java**, **Spring**, and building scalable backend systems.
+
+I love creating clean, high-performance applications with a futuristic approach. Constantly learning, improving, and building.
 
 ---
 
+## 🎯 Quick Highlights  
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,bootstrap,git,github&theme=dark" />
+
+🧠 Problem Solver • ⚡ Fast Learner • 🤝 Team Player • 🛠 Project Management  
+<br>
+🌱 Currently learning **Spring Boot**, **Backend Architecture**, and **Advanced Java**  
+<br>
+🚀 Vision: *To build meaningful, scalable products and evolve with future-ready tech.*
+
 </div>
 
-
 ---
 
-
-### 🌱 Currently Learning
-- Spring Boot  
-- Building advanced backend projects  
-- Upgrading myself with futuristic thoughts & modern technologies  
-
-### 💡 Strong Points  
-- Problem-Solving  
-- Analytical Thinking  
-- Teamwork & Leadership  
-- Project Management  
-
-### 🎯 Vision  
-To develop impactful projects, master backend architecture, and continuously upgrade my skills to stay ahead in the tech future.
-
----
-
-## 📬 Contact Me
-
-- 📧 **Email:** prathmeshmjoshi007@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/prathmeshjoshi07/  
-- 🧠 **LeetCode:** https://leetcode.com/u/ZBTVBt9LyP/
-
----
-
-
-## 🚀 My Tech Stack  
+## 🛠 Tech Stack
 
 <div align="center">
 
-<!-- Languages / Core -->
+### 🧩 Languages  
 <img src="https://skillicons.dev/icons?i=java,mysql,html,css&theme=dark" />
 
-<br/>
-
-<!-- Backend / Frameworks -->
+### ⚙️ Backend & Frameworks  
 <img src="https://skillicons.dev/icons?i=spring,maven&theme=dark" />
 
-<br/>
-
-<!-- Tools -->
+### 🧰 Tools  
 <img src="https://skillicons.dev/icons?i=bootstrap,git,github,idea&theme=dark" />
 
 </div>
- 
 
 ---
 
@@ -107,40 +77,51 @@ To develop impactful projects, master backend architecture, and continuously upg
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=PrathmeshJoshi07&show_icons=true&theme=react&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PrathmeshJoshi07&show_icons=true&theme=react&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathmeshJoshi07&theme=react&hide_border=true" />
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathmeshJoshi07&theme=react&hide_border=true" />
+<br>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshJoshi07&layout=compact&theme=react&hide_border=true" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshJoshi07&layout=compact&theme=react&hide_border=true" />
 
 </div>
 
----  
+---
 
 ## 🖼️ Project Showcase
 
 <div align="center">
 <table>
   <tr>
-    <td align="center" style="padding:8px">
+    <!-- Hotel -->
+    <td align="center" style="padding:12px;">
       <a href="https://github.com/PrathmeshJoshi07/Hotel_Management_System---Spring" target="_blank">
-        <img src="./assets/projects/Hotel.png" alt="Hotel Management System" width="220" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.6);" />
+        <img src="./assets/projects/Hotel.png" width="220"
+        style="border-radius:12px; padding:6px; background:#0A0F1F; 
+        border:2px solid rgba(0,229,255,0.2);
+        box-shadow:0 0 20px rgba(0,229,255,0.12);" />
       </a>
       <br/>
-      <sub><b>Hotel Management System</b><br>A Spring MVC + JSP app — add/list/delete rooms.</sub>
+      <sub><b>Hotel Management System</b><br>A Spring MVC + JSP based room management app.</sub>
     </td>
-    <td align="center" style="padding:8px">
+    <!-- Tender -->
+    <td align="center" style="padding:12px;">
       <a href="https://github.com/PrathmeshJoshi07/Tender-Recommendation-System-Java-" target="_blank">
-        <img src="./assets/projects/tender.png" alt="Tender Recommendation System" width="220" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.6);" />
+        <img src="./assets/projects/tender.png" width="220"
+        style="border-radius:12px; padding:6px; background:#0A0F1F;
+        border:2px solid rgba(255,161,22,0.2);
+        box-shadow:0 0 20px rgba(255,161,22,0.12);" />
       </a>
       <br/>
-      <sub><b>Tender Recommendation System</b><br>Recommends relevant tenders (Java).</sub>
+      <sub><b>Tender Recommendation System</b><br>Recommends tenders using Java logic.</sub>
     </td>
-    <td align="center" style="padding:8px">
+  <!-- Hospital -->
+    <td align="center" style="padding:12px;">
       <a href="https://github.com/PrathmeshJoshi07/Hotel-Management-System" target="_blank">
-        <img src="./assets/projects/hospital.png" alt="Hospital Management System" width="220" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.6);" />
+        <img src="./assets/projects/hospital.png" width="220"
+        style="border-radius:12px; padding:6px; background:#0A0F1F;
+        border:2px solid rgba(0,122,255,0.2);
+        box-shadow:0 0 20px rgba(0,122,255,0.12);" />
       </a>
       <br/>
       <sub><b>Hospital Management System</b><br>JAVA JDBC project for hospital arrangements.</sub>
@@ -150,21 +131,42 @@ To develop impactful projects, master backend architecture, and continuously upg
 </table>
 </div>
 
+---
 
+## 🧩 Extra Sections (Collapsible)
 
+<details>
+<summary><h3>📘 My Learning Roadmap</h3></summary>
 
+- Spring Boot Advanced  
+- Microservices  
+- System Design Basics  
+- Cloud Deployment (AWS)  
+- DevOps Tools  
+
+</details>
+
+<details>
+<summary><h3>📁 Other Projects</h3></summary>
+
+- Mini Java Apps  
+- CLI Tools  
+- Learning Projects  
+- Experiments  
+
+</details>
 
 ---
 
 ## ✨ My Developer Style  
-✔ Professional (even as a fresher)  
-✔ Futuristic tech mindset  
+✔ Professional & modern  
+✔ Futuristic mindset  
 ✔ Friendly & collaborative  
-✔ Premium & modern coding approach  
+✔ Clean architecture believer  
+
 ---
 
 ## ☕ Final Thoughts  
 > *“Keep building. Keep improving. The future belongs to developers who never stop learning.”*
 
 ---
-
