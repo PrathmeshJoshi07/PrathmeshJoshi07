@@ -120,11 +120,42 @@ To develop impactful projects, master backend architecture, and continuously upg
 ---
 
 ## 🏗 Projects  
-*(I Will  fill these later.)*
 
-🚧 Project 1 — Coming Soon
-🚧 Project 2 — Coming Soon
-🚧 Project 3 — Coming Soon
+## 🖼️ Project Showcase
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" style="padding:8px">
+      <a href="https://github.com/PrathmeshJoshi07/Hotel_Management_System---Spring" target="_blank">
+        <img src="./assets/projects/ChatGPT Image Nov 18, 2025, 02_38_14 PM.png" alt="Hotel Management" width="220" style="border-radius:8px; box-shadow: 0 6px 18px rgba(0,0,0,0.6);">
+      </a>
+      <br/>
+      <sub><b>Hotel Management System</b><br>A Spring MVC + JSP app — add/list/delete rooms.</sub>
+    </td>
+
+    <td align="center" style="padding:8px">
+      <a href="https://github.com/PrathmeshJoshi07/Tender-Recommendation-System-Java-" target="_blank">
+        <img src="./assets/projects/ChatGPT Image Nov 18, 2025, 02_38_19 PM.png" alt="Tender Recommendation" width="220" style="border-radius:8px; box-shadow: 0 6px 18px rgba(0,0,0,0.6);">
+      </a>
+      <br/>
+      <sub><b>Tender Recommendation System</b><br>Recommends relevant tenders (Java).</sub>
+    </td>
+
+    <td align="center" style="padding:8px">
+      <a href="https://github.com/PrathmeshJoshi07/ChatGPT Image Nov 18, 2025, 02_38_21 PM.png" target="_blank">
+        <img src="./assets/projects/hospital-management.png" alt="Hospital Management" width="220" style="border-radius:8px; box-shadow: 0 6px 18px rgba(0,0,0,0.6);">
+      </a>
+      <br/>
+      <sub><b>Hospital Management System</b><br>JAVA JDBC project for hospital arrangements.</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 
 
 ---
