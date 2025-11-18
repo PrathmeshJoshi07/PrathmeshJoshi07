@@ -116,16 +116,30 @@ I love creating clean, high-performance applications with a futuristic approach.
 <table>
   <tr>
     <!-- Hotel -->
-    <td align="center" style="padding:12px;">
-      <a href="https://github.com/PrathmeshJoshi07/Hotel_Management_System---Spring" target="_blank">
-        <img src="./assets/projects/Hotel.png" width="220"
-        style="border-radius:12px; padding:6px; background:#0A0F1F; 
-        border:2px solid rgba(0,229,255,0.2);
-        box-shadow:0 0 20px rgba(0,229,255,0.12);" />
-      </a>
-      <br/>
-      <sub><b>Hotel Management System</b><br>A Spring MVC + JSP based room management app.</sub>
-    </td>
+    <!-- Project: Hotel (with Discussion button) -->
+<td align="center" style="padding:12px;">
+  <a href="https://github.com/PrathmeshJoshi07/Hotel_Management_System---Spring" target="_blank">
+    <img src="./assets/projects/Hotel.png" width="220"
+         style="border-radius:12px; padding:6px; background:#0A0F1F;
+                border:2px solid rgba(0,229,255,0.2);
+                box-shadow:0 0 20px rgba(0,229,255,0.12);" />
+  </a>
+  <br/>
+  <sub><b>Hotel Management System</b><br>A Spring MVC + JSP based room management app.</sub>
+
+  <!-- Start Discussion button (collaboration) -->
+  <div style="margin-top:8px;">
+    <a href="https://github.com/PrathmeshJoshi07/Hotel_Management_System---Spring/discussions/new?category=collaboration" target="_blank">
+      <img src="https://img.shields.io/badge/Start%20Discussion%20to%20Collaborate-0A66C2?style=for-the-badge&logo=github&logoColor=white"
+           alt="Start Discussion to Collaborate" />
+    </a>
+  </div>
+
+  <!-- Short guidance under the button -->
+  <p align="center" style="max-width:260px;font-size:12px;color:#9fcfe0;margin-top:6px">
+    <b>Want to collaborate?</b><br/>Click the button → choose <i>collaboration</i> category → paste the template.
+  </p>
+</td>
     <!-- Tender -->
     <td align="center" style="padding:12px;">
       <a href="https://github.com/PrathmeshJoshi07/Tender-Recommendation-System-Java-" target="_blank">
