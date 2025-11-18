@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Prathmesh+Joshi+👋;Backend+Developer+%7C+Fullstack+Developer+%7C+Java+Developer;Building+Modern+%26+Futuristic+Solutions+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Prathmesh+Joshi+👋;Backend+Dev+%7C+Fullstack+Dev+%7C+Java+Dev;Building+Modern+%26+Futuristic+Solutions+🚀" />
 
 </div>
 
