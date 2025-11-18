@@ -1,7 +1,5 @@
-
-
 <p align="center">
-  <img src="./assets/solar-system-banner.svg" alt="Solar System Tech Background" width="100%" />
+  <img src="./assets/banner.svg" alt="Prathmesh M Joshi - Banner" width="100%" />
 </p>
 
 <!-- 🔥 Futuristic + Professional GitHub Profile README for Prathmesh Joshi -->
