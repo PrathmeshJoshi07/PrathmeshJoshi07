@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./assets/banner.svg" alt="Prathmesh M Joshi - Banner" width="100%" />
+</p>
+
 <!-- 🔥 Futuristic + Professional GitHub Profile README for Prathmesh Joshi -->
 
 <div align="center">
