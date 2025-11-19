@@ -99,8 +99,8 @@ I love creating clean, high-performance applications with a futuristic approach.
 
 <div align="center"> 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=PrathmeshJoshi07&show_icons=true&theme=react&hide_border=true" /> 
-<img src="./assets/streak.svg" alt="Live GitHub streak stats" width="900" style="max-width:100%; border-radius:8px; box-shadow: 0 8px 20px rgba(0,0,0,0.6);" />
-  <br>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathmeshJoshi07&theme=react&hide_border=true" /> 
+<br>
 <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshJoshi07&layout=compact&theme=react&hide_border=true" />
 </div>
 
