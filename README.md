@@ -137,7 +137,7 @@ I love creating clean, high-performance applications with a futuristic approach.
 
   <!-- Short guidance under the button -->
   <p align="center" style="max-width:260px;font-size:12px;color:#9fcfe0;margin-top:6px">
-    <b>Want to collaborate?</b><br/>Click the button → choose <i>collaboration</i> category → paste the template.
+    <b>Want to collaborate?</b><br/>Click the button → choose <i>collaboration</i> Start Discussion in GENERAL CHAT.
   </p>
 </td>
     <!-- Tender -->
