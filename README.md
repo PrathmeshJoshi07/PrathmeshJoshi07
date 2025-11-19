@@ -98,7 +98,7 @@ I love creating clean, high-performance applications with a futuristic approach.
 ## 📊 GitHub Analytics
 
 <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=PrathmeshJoshi07&show_icons=true&theme=react&hide_border=true" /> 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathmeshJoshi07&theme=react&hide_border=true" /> 
+<img height="165" src="https://streak-stats.demolab.com/?user=PrathmeshJoshi07&theme=react&hide_border=true" />
 <br>
 <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshJoshi07&layout=compact&theme=react&hide_border=true" />
 </div>
