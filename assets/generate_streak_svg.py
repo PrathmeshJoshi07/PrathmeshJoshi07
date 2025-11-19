@@ -1,4 +1,6 @@
-
+export GITHUB_TOKEN=ghp_yourTokenHere
+export TARGET_USERNAME=PrathmeshJoshi07
+python tools/generate_streak_svg.py
 # tools/generate_streak_svg.py
 # Usage: run in repository root. Requires env var GITHUB_TOKEN and optional TARGET_USERNAME.
 import os, sys, requests, datetime
