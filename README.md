@@ -1,3 +1,38 @@
+<!-- 🔮 Purple Cyberpunk Glow Box (Markdown-safe version) -->
+<div style="
+  border: 2px solid rgba(180, 60, 255, 0.65);
+  border-radius: 18px;
+  padding: 26px;
+  box-shadow:
+    0 0 14px rgba(180, 60, 255, 0.55),
+    0 0 32px rgba(180, 60, 255, 0.40),
+    inset 0 0 16px rgba(180, 60, 255, 0.25);
+">
+
+<p align="center">
+  <img src="./assets/banner.svg" alt="Prathmesh M Joshi - Banner" width="100%" />
+</p>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=B43CFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Prathmesh+Joshi+👋;Backend+Dev+%7C+Fullstack+Dev+%7C+Java+Dev;Building+Modern+%26+Futuristic+Solutions+🚀" />
+</div>
+
+<div align="center">
+<h3 style="color:#B43CFF;">Passionate To Build Modern Futuristic Digital Experiences ⚡</h3>
+Backend Developer • Fullstack Developer • Java Specialist 
+</div>
+
+</div>
+<!-- END Purple Glow Box -->
+
+
+<div align="center">
+<h3 style="color:#B43CFF;">Passionate To Build Modern Futuristic Digital Experiences ⚡</h3>
+Backend Developer • Fullstack Developer • Java Specialist 
+</div>
+
+</div>
+<!-- END Purple Glow Box -->
 
 
 <p align="center">
