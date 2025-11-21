@@ -1,11 +1,18 @@
 <div style="
-  border: 1px solid rgba(0, 229, 255, 0.15);
-  border-radius: 10px;
-  padding: 20px;
-  box-shadow: 0 0 6px rgba(0, 229, 255, 0.2);
+  border: 2px solid rgba(0, 140, 255, 0.55);
+  border-radius: 16px;
+  padding: 28px;
+
+  /* Outer neon glow */
+  box-shadow:
+    0 0 10px rgba(0, 140, 255, 0.55),
+    0 0 22px rgba(0, 140, 255, 0.45),
+    0 0 35px rgba(0, 140, 255, 0.35),
+
+  /* Inner merging shade */
+    inset 0 0 12px rgba(0, 140, 255, 0.25),
+    inset 0 0 22px rgba(0, 140, 255, 0.20);
 ">
-
-
 
 <p align="center">
   <img src="./assets/banner.svg" alt="Prathmesh M Joshi - Banner" width="100%" />
