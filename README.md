@@ -1,13 +1,4 @@
-<!-- 🔮 Purple Cyberpunk Glow Box (Markdown-safe version) -->
-<div style="
-  border: 2px solid rgba(180, 60, 255, 0.65);
-  border-radius: 18px;
-  padding: 26px;
-  box-shadow:
-    0 0 14px rgba(180, 60, 255, 0.55),
-    0 0 32px rgba(180, 60, 255, 0.40),
-    inset 0 0 16px rgba(180, 60, 255, 0.25);
-">
+
 
 <p align="center">
   <img src="./assets/banner.svg" alt="Prathmesh M Joshi - Banner" width="100%" />
@@ -22,8 +13,6 @@
 Backend Developer • Fullstack Developer • Java Specialist 
 </div>
 
-</div>
-<!-- END Purple Glow Box -->
 
 
 <div align="center">
