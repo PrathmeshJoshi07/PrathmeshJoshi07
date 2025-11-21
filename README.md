@@ -1,3 +1,11 @@
+<div align="center" style="
+  border: 1px solid rgba(0, 229, 255, 0.3);
+  box-shadow: 0 0 12px rgba(0, 229, 255, 0.4);
+  border-radius: 12px;
+  padding: 22px;
+">
+
+
 <p align="center">
   <img src="./assets/banner.svg" alt="Prathmesh M Joshi - Banner" width="100%" />
 </p>
@@ -181,5 +189,6 @@ I love creating clean, high-performance applications with a futuristic approach.
 
 ## ☕ Final Thoughts  
 > *“Keep building. Keep improving. The future belongs to developers who never stop learning.”*
+</div>
 
 ---
