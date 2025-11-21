@@ -1,11 +1,8 @@
 <div style="
-  border: 1px solid rgba(0, 255, 255, 0.2);
-  padding: 25px;
-  border-radius: 16px;
-  box-shadow:
-    0 0 6px rgba(0, 255, 255, 0.25),
-    0 0 12px rgba(0, 255, 255, 0.25),
-    inset 0 0 6px rgba(0, 255, 255, 0.15);
+  border: 1px solid rgba(0, 229, 255, 0.15);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 6px rgba(0, 229, 255, 0.2);
 ">
 
 
