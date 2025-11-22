@@ -200,13 +200,13 @@ I love creating clean, high-performance applications with a futuristic approach.
   box-shadow:0 0 18px rgba(0,229,255,0.15);
 ">
 
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-<br/><br/>
+<img src="https://img.shields.io/badge/Forage-0A70F5?style=for-the-badge&logo=forage&logoColor=white" />
+<br/>
 
-<b>Java (Basic)</b><br/>
-<sub>HackerRank • 2024</sub><br/><br/>
+<b>Software Engg (Internship)</b><br/>
+<sub>Skyscanner • 2025</sub><br/><br/>
 
-<a href="https://www.hackerrank.com/certificates" target="_blank" style="text-decoration:none;">
+<a href="https://drive.google.com/file/d/1AQqCm9ydK_ysUmi5HrDhE7yVds9LYt3w/view?usp=drive_link;">
   🔗 <b>Verify Certificate</b>
 </a>
 
