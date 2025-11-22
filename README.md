@@ -160,6 +160,9 @@ I love creating clean, high-performance applications with a futuristic approach.
 - Cloud Deployment (AWS)  
 - DevOps Tools  
 
+
+<hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
+
 ## 🏅 Certifications  
 
 <div align="center">
