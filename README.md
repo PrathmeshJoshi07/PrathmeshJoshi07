@@ -239,6 +239,11 @@ I love creating clean, high-performance applications with a futuristic approach.
 
 <hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
 
+
+
+<hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
+
+
 ## ✨ My Developer Style  
 ✔ Professional & modern  
 ✔ Futuristic mindset  
