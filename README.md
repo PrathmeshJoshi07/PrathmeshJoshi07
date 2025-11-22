@@ -204,7 +204,7 @@ I love creating clean, high-performance applications with a futuristic approach.
 <br/>
 
 <b>Software Engg (Internship)</b><br/>
-<sub>Skyscanner • 2025</sub><br/><br/>
+<sub>Skyscanner • 2025</sub><br/>
 
 <a href="https://drive.google.com/file/d/1AQqCm9ydK_ysUmi5HrDhE7yVds9LYt3w/view?usp=drive_link;">
   🔗 <b>Verify Certificate</b>
@@ -226,7 +226,7 @@ I love creating clean, high-performance applications with a futuristic approach.
 <br/>
 
 <b>Microsoft Azure (Internship)</b><br/>
-<sub>Rinex Technology • 2023</sub><br/><br/>
+<sub>Rinex Technology • 2023</sub><br/>
 
 <a href="https://drive.google.com/file/d/1ZGvhrGzp-YEsomg2k0CvmbKrG_vxXljW/view?usp=drive_link;">
   🔗 <b>Verify Certificate</b>
