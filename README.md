@@ -178,13 +178,13 @@ I love creating clean, high-performance applications with a futuristic approach.
   box-shadow:0 0 18px rgba(0,229,255,0.15);
 ">
 
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
-<br/><br/>
+<img src="https://img.shields.io/badge/Great%20Learning-0056D2?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+<br/>
 
 <b>Java Programming</b><br/>
-<sub>Coursera • 2024</sub><br/><br/>
+<sub>Greatlearning • 2022</sub><br/><br/>
 
-<a href="https://www.coursera.org" target="_blank" style="text-decoration:none;">
+<a href="https://drive.google.com/file/d/1ZzxtM-T7JobSaEmTgUIj7Dmdo_FRPwoO/view?usp=drive_link;">
   🔗 <b>Verify Certificate</b>
 </a>
 
