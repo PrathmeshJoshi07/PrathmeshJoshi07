@@ -223,7 +223,7 @@ I love creating clean, high-performance applications with a futuristic approach.
 ">
 
 <img src="https://img.shields.io/badge/Rinex-6A5ACD?style=for-the-badge&logo=academia&logoColor=white" />
-<br/><br/>
+<br/>
 
 <b>Microsoft Azure (Internship)</b><br/>
 <sub>Rinex Technology • 2023</sub><br/><br/>
