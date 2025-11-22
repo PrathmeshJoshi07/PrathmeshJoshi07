@@ -160,7 +160,88 @@ I love creating clean, high-performance applications with a futuristic approach.
 - Cloud Deployment (AWS)  
 - DevOps Tools  
 
-</details>
+</details><hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
+
+## 🏅 Certifications  
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%" style="
+  padding:18px;
+  border-radius:16px;
+  background:rgba(255,255,255,0.05);
+  backdrop-filter:blur(10px);
+  border:1px solid rgba(0,229,255,0.2);
+  box-shadow:0 0 18px rgba(0,229,255,0.15);
+">
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+<br/><br/>
+
+<b>Java Programming</b><br/>
+<sub>Coursera • 2024</sub><br/><br/>
+
+<a href="https://www.coursera.org" target="_blank" style="text-decoration:none;">
+  🔗 <b>Verify Certificate</b>
+</a>
+
+</td>
+
+
+<td align="center" width="33%" style="
+  padding:18px;
+  border-radius:16px;
+  background:rgba(255,255,255,0.05);
+  backdrop-filter:blur(10px);
+  border:1px solid rgba(0,229,255,0.2);
+  box-shadow:0 0 18px rgba(0,229,255,0.15);
+">
+
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<br/><br/>
+
+<b>Java (Basic)</b><br/>
+<sub>HackerRank • 2024</sub><br/><br/>
+
+<a href="https://www.hackerrank.com/certificates" target="_blank" style="text-decoration:none;">
+  🔗 <b>Verify Certificate</b>
+</a>
+
+</td>
+
+
+<td align="center" width="33%" style="
+  padding:18px;
+  border-radius:16px;
+  background:rgba(255,255,255,0.05);
+  backdrop-filter:blur(10px);
+  border:1px solid rgba(0,229,255,0.2);
+  box-shadow:0 0 18px rgba(0,229,255,0.15);
+">
+
+<img src="https://img.shields.io/badge/Great%20Learning-0056D2?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+<br/><br/>
+
+<b>Spring Boot Basics</b><br/>
+<sub>Great Learning • 2023</sub><br/><br/>
+
+<a href="https://verify.greatlearning.in/" target="_blank" style="text-decoration:none;">
+  🔗 <b>Verify Certificate</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
+
+
 
 <hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
 
