@@ -222,11 +222,11 @@ I love creating clean, high-performance applications with a futuristic approach.
   box-shadow:0 0 18px rgba(0,229,255,0.15);
 ">
 
-<img src="https://img.shields.io/badge/Great%20Learning-0056D2?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+<img src="https://img.shields.io/badge/Rinex-6A5ACD?style=for-the-badge&logo=academia&logoColor=white" />
 <br/><br/>
 
-<b>Spring Boot Basics</b><br/>
-<sub>Great Learning • 2023</sub><br/><br/>
+<b>Microsoft Azure (Internship)</b><br/>
+<sub>Rinex Technology • 2023</sub><br/><br/>
 
 <a href="https://verify.greatlearning.in/" target="_blank" style="text-decoration:none;">
   🔗 <b>Verify Certificate</b>
