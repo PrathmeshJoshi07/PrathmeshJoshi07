@@ -228,7 +228,7 @@ I love creating clean, high-performance applications with a futuristic approach.
 <b>Microsoft Azure (Internship)</b><br/>
 <sub>Rinex Technology • 2023</sub><br/><br/>
 
-<a href="https://verify.greatlearning.in/" target="_blank" style="text-decoration:none;">
+<a href="https://drive.google.com/file/d/1ZGvhrGzp-YEsomg2k0CvmbKrG_vxXljW/view?usp=drive_link;">
   🔗 <b>Verify Certificate</b>
 </a>
 
