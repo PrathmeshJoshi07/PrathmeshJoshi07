@@ -78,7 +78,6 @@ I love creating clean, high-performance applications with a futuristic approach.
 <img src="https://skillicons.dev/icons?i=spring,maven&theme=dark" />
 
 </td>
-
 <td align="center" width="33%">
 
 ### 🧰 Tools  
