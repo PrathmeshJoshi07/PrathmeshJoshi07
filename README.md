@@ -49,8 +49,8 @@ I love creating clean, high-performance applications with a futuristic approach.
 
 <div align="center">
 
-### **Bachelor of Engineering — Computer Engineering**  
-**Dr. D. Y. Patil Institute of Technology, Pune**  
+### **Bachelor of Engineering — INFORMATION TECHNOLOGY**  
+**MATOSHRI COLLEGE OF ENGINEERING AND RESEARCH CENTER, NASHIK**  
 <sub>2021 — 2025</sub>
 
 <br>
@@ -63,7 +63,7 @@ I love creating clean, high-performance applications with a futuristic approach.
   border:1px solid rgba(0,229,255,0.25);
   box-shadow:0 0 12px rgba(0,229,255,0.15);
 ">
-  🎯 <b>CGPA:</b> 8.2 • <b>Specialization:</b> Software Development  
+  🎯 <b>CGPA:</b> 6.89 • <b>Specialization:</b> Software Development  
 </div>
 
 </div>
