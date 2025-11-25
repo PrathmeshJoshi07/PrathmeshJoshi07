@@ -44,6 +44,33 @@ I love creating clean, high-performance applications with a futuristic approach.
 
 <hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
 
+
+## 🎓 Education  
+
+<div align="center">
+
+### **Bachelor of Engineering — Computer Engineering**  
+**Dr. D. Y. Patil Institute of Technology, Pune**  
+<sub>2021 — 2025</sub>
+
+<br>
+
+<div style="
+  display:inline-block;
+  padding:12px 22px;
+  border-radius:12px;
+  background:rgba(0, 229, 255, 0.05);
+  border:1px solid rgba(0,229,255,0.25);
+  box-shadow:0 0 12px rgba(0,229,255,0.15);
+">
+  🎯 <b>CGPA:</b> 8.2 • <b>Specialization:</b> Software Development  
+</div>
+
+</div>
+
+<hr style="border: 0; border-top: 1px solid rgba(0, 229, 255, 0.15); margin: 35px 0;" />
+
+
 ## 🎯 Quick Highlights  
 
 <div align="center">
