@@ -42,33 +42,52 @@ I’m **Prathmesh Joshi**, a passionate **Backend & Fullstack Developer** with s
 
 I love creating clean, high-performance applications with a futuristic approach. Constantly learning, improving, and building.
 
-<hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
-
+<hr style="border: 0; border-top: 1px solid rgba(0, 229, 255, 0.15); margin: 40px 0;" />
 
 ## 🎓 Education  
-
 <div align="center">
 
-### **Bachelor of Engineering — INFORMATION TECHNOLOGY**  
-**MATOSHRI COLLEGE OF ENGINEERING AND RESEARCH CENTER, NASHIK**  
+<div style="
+  width: 90%;
+  max-width: 750px;
+  padding: 25px 30px;
+  border-radius: 18px;
+  background: rgba(0, 229, 255, 0.05);
+  backdrop-filter: blur(14px);
+  border: 1px solid rgba(0, 229, 255, 0.25);
+  box-shadow: 0 0 25px rgba(0, 229, 255, 0.18),
+              inset 0 0 12px rgba(0, 229, 255, 0.12);
+">
+
+<h3 style="color:#00E5FF; margin-bottom:4px;">Bachelor of Engineering — Information Technology</h3>
+<b>Matoshri College of Engineering and Research Center, Nashik</b>  
 <sub>2021 — 2025</sub>
 
-<br>
+<br><br>
 
 <div style="
-  display:inline-block;
-  padding:12px 22px;
-  border-radius:12px;
-  background:rgba(0, 229, 255, 0.05);
-  border:1px solid rgba(0,229,255,0.25);
-  box-shadow:0 0 12px rgba(0,229,255,0.15);
+  display: inline-block;
+  padding: 10px 18px;
+  border-radius: 10px;
+  background: rgba(0, 229, 255, 0.08);
+  border: 1px solid rgba(0,229,255,0.3);
+  box-shadow: 0 0 12px rgba(0,229,255,0.15);
 ">
-  🎯 <b>CGPA:</b> 6.89 • <b>Specialization:</b> Software Development  
+🎯 <b>CGPA:</b> 8.2 • <b>Specialization:</b> Software Development  
+</div>
+
+<br><br>
+
+<div style="opacity:0.85;">
+📘 <b>Key Coursework:</b> Data Structures, DBMS, Operating Systems, Computer Networks, Java Development, Web Tech  
 </div>
 
 </div>
 
-<hr style="border: 0; border-top: 1px solid rgba(0, 229, 255, 0.15); margin: 35px 0;" />
+</div>
+
+<hr style="border: 0; border-top: 1px solid rgba(0, 229, 255, 0.15); margin: 40px 0;" />
+
 
 
 ## 🎯 Quick Highlights  
