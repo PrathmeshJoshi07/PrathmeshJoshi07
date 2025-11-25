@@ -62,7 +62,7 @@ I love creating clean, high-performance applications with a futuristic approach.
   border:1px solid rgba(0,229,255,0.25);
   box-shadow:0 0 12px rgba(0,229,255,0.15);
 ">
-  🎯 <b>CGPA:</b> 8.2 • <b>Specialization:</b> Software Development  
+  🎯 <b>CGPA:</b> 6.89 • <b>Specialization:</b> Software Development  
 </div>
 
 </div>
