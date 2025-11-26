@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="./assets/banner.svg" alt="Prathmesh M Joshi - Banner" width="100%" />
 </p>
@@ -218,7 +216,6 @@ I love creating clean, high-performance applications with a futuristic approach.
 </a>
 
 </td>
-
 
 <td align="center" width="33%" style="
   padding:18px;
