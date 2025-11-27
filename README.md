@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./assets/banner.svg" alt="Prathmesh M Joshi - Banner" width="100%" />
 </p>
+
 <hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
 
 <div align="center">
