@@ -41,10 +41,9 @@ I love creating clean, high-performance applications with a futuristic approach.
 
 ### **Bachelor of Engineering — Information Technology**  
 **MATOSHRI COLLEGE OF ENGINEERING AND RESEARCH CENRTER, NASHIK**  
+
 <sub>2021 — 2025</sub>
-
 <br>
-
 <div style="
   display:inline-block;
   padding:12px 22px;
