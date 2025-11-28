@@ -1,41 +1,28 @@
 <p align="center">
   <img src="./assets/banner.svg" alt="Prathmesh M Joshi - Banner" width="100%" />
 </p>
-
 <hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
-
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Prathmesh+Joshi+👋;Backend+Dev+%7C+Fullstack+Dev+%7C+Java+Dev;Building+Modern+%26+Futuristic+Solutions+🚀" />
 </div><div align="center">
-  
 <h3>Passionate To Build Modern Futuristic Digital Experiences ⚡</h3>
 Backend Developer • Fullstack Developer • Java Specialist 
 </div>
-
 <hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
-
 ## 🔗 Social & Profile Stats  
 <div align="center">
-
 <a href="https://www.linkedin.com/in/prathmeshjoshi07/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:prathmeshmjoshi007@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://leetcode.com/u/ZBTVBt9LyP/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-
 <img src="https://komarev.com/ghpvc/?username=PrathmeshJoshi07&color=00E5FF&style=for-the-badge" />
-
 </div>
-
 <hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
-
-
 ## 🧑‍💻 About Me  
 
 I’m **Prathmesh Joshi**, a passionate **Backend & Fullstack Developer** with strong expertise in **Java**, **Spring**, and building scalable backend systems.
