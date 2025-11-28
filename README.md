@@ -8,7 +8,9 @@
 <h3>Passionate To Build Modern Futuristic Digital Experiences ⚡</h3>
 Backend Developer • Fullstack Developer • Java Specialist 
 </div>
+
 <hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
+
 ## 🔗 Social & Profile Stats  
 <div align="center">
 <a href="https://www.linkedin.com/in/prathmeshjoshi07/">
@@ -23,6 +25,8 @@ Backend Developer • Fullstack Developer • Java Specialist
 <img src="https://komarev.com/ghpvc/?username=PrathmeshJoshi07&color=00E5FF&style=for-the-badge" />
 </div>
 <hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
+
+
 ## 🧑‍💻 About Me  
 
 I’m **Prathmesh Joshi**, a passionate **Backend & Fullstack Developer** with strong expertise in **Java**, **Spring**, and building scalable backend systems.
