@@ -4,6 +4,7 @@
 <hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Prathmesh+Joshi+👋;Backend+Dev+%7C+Fullstack+Dev+%7C+Java+Dev;Building+Modern+%26+Futuristic+Solutions+🚀" />
+
 </div><div align="center">
 <h3>Passionate To Build Modern Futuristic Digital Experiences ⚡</h3>
 Backend Developer • Fullstack Developer • Java Specialist 
