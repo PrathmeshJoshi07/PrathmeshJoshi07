@@ -27,7 +27,6 @@ Backend Developer • Fullstack Developer • Java Specialist
 </div>
 <hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
 
-
 ## 🧑‍💻 About Me  
 
 I’m **Prathmesh Joshi**, a passionate **Backend & Fullstack Developer** with strong expertise in **Java**, **Spring**, and building scalable backend systems.
@@ -55,11 +54,8 @@ I love creating clean, high-performance applications with a futuristic approach.
 ">
   🎯 <b>CGPA:</b> 6.89 • <b>Specialization:</b> Software Development  
 </div>
-
 </div>
-
 <hr style="border: 0; border-top: 1px solid rgba(0, 229, 255, 0.15); margin: 35px 0;" />
-
 
 ## 🎯 Quick Highlights  
 
