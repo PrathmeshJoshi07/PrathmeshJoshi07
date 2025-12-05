@@ -25,6 +25,7 @@ Backend Developer • Fullstack Developer • Java Specialist
 <a href="https://leetcode.com/u/ZBTVBt9LyP/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=PrathmeshJoshi07&color=00E5FF&style=for-the-badge" />
 </div>
 <hr style="border: 0; border-top: 1px solid rgba(0,140,255,0.15); margin: 25px 0;" />
